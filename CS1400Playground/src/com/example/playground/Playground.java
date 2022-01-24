@@ -26,5 +26,6 @@ public class Playground {
 
         // Print out the value
         System.out.println("Value of m: " + m);
+        System.out.println("This is the end of our program!");
     }
 }
