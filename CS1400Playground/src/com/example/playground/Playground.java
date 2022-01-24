@@ -23,6 +23,8 @@ public class Playground {
                 i *= 2;
             }
         }
+
+        // Print out the value
         System.out.println("Value of m: " + m);
     }
 }
